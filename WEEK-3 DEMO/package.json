@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jayk2411/COMP229SEC001WEEK3DEMO/issues"
   },
-  "homepage": "https://github.com/jayk2411/COMP229SEC001WEEK3DEMO#readme"
+  "homepage": "https://github.com/jayk2411/COMP229SEC001WEEK3DEMO#readme",
+  "dependencies": {
+    "connect": "^3.7.0"
+  }
 }
