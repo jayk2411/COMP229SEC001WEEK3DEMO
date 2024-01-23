@@ -1,0 +1,20 @@
+{
+  "name": "week-3-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayk2411/COMP229SEC001WEEK3DEMO.git"
+  },
+  "author": "Jaykumar Kakadiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayk2411/COMP229SEC001WEEK3DEMO/issues"
+  },
+  "homepage": "https://github.com/jayk2411/COMP229SEC001WEEK3DEMO#readme"
+}
